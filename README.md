@@ -66,7 +66,7 @@ The system is constructed using a **Data Secure, On-Demand, High Performance dat
     <br>
 	<a href="https://github.com/deliciafernandes"><img src="https://avatars3.githubusercontent.com/u/53268119?s=460&u=a7dfaa6f45777e542b202d707d5a25ac3d9beb64&v=4" width="100px;" alt="Delicia Fernandes Image"/><br>
 	<sub><b>Delicia Fernandes</b></sub></a><br/>
-	<sub><b>Frontend Developer</b></sub><br/>
+	<sub><b>Frontend Developer</b></sub><br/><br/>
 </td>
 </table>
 
