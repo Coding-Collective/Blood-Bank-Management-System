@@ -58,7 +58,7 @@ The system is constructed using a **Data Secure, On-Demand, High Performance dat
 	<sub><b>Backend Developer</b></sub><br/>
 </td>
 <td align="center">
-	<a href="https://github.com/chelseadsouza"><img src="https://avatars1.githubusercontent.com/u/56515133?s=460&u=a2d8b15a246701fcd32a186ada876e915dac8bd8&v=4" width="150px;" alt="Chelsea Dsouza Image"/><br>
+	<a href="https://github.com/chelseadsouza"><img src="https://avatars1.githubusercontent.com/u/56515133?s=460&u=a2d8b15a246701fcd32a186ada876e915dac8bd8&v=4" width="100px;" alt="Chelsea Dsouza Image"/><br>
 	<sub><b>Chelsea Dsouza</b></sub></a><br/>
 	<sub><b>Backend & Frontend Developer</b></sub><br/>
 </td>
