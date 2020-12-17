@@ -10,6 +10,7 @@
 2. <a href="#DS">Directory Structure</a>
 3. <a href="#Clone">Once cloned, follow</a>
 4. <a href="#Contribute">How to Contribute</a>
+5. <a href="#Acknowledgements">Acknowledgements</a>
 
 ---
 
@@ -47,6 +48,27 @@ The system is constructed using a **Data Secure, On-Demand, High Performance dat
 1. Clone repo and create a new branch: `$ https://github.com/Coding-Collective/Blood-Bank-Management-System -b name_for_new_branch`.
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
+
+### <a name="Acknowledgements">**5. Acknowledgements:**</a>
+
+<table>
+<td align="center">
+	<a href="https://github.com/rebeccadias"><img src="https://avatars1.githubusercontent.com/u/56188657?s=460&u=13edf4034b6bb9d33a17440c600f515a099727f9&v=4"  width="100px;" alt="Rebecca Dias Image"/><br>
+	<sub><b>Rebecca Dias</b></sub></a><br/>
+	<sub><b>Backend Developer</b></sub><br/>
+</td>
+<td align="center">
+	<a href="https://github.com/chelseadsouza"><img src="https://avatars1.githubusercontent.com/u/56515133?s=460&u=a2d8b15a246701fcd32a186ada876e915dac8bd8&v=4" width="150px;" alt="Chelsea Dsouza Image"/><br>
+	<sub><b>Chelsea Dsouza</b></sub></a><br/>
+	<sub><b>Backend & Frontend Developer</b></sub><br/>
+</td>
+<td align="center">
+    <br>
+	<a href="https://github.com/deliciafernandes"><img src="https://avatars3.githubusercontent.com/u/53268119?s=460&u=a7dfaa6f45777e542b202d707d5a25ac3d9beb64&v=4" width="100px;" alt="Delicia Fernandes Image"/><br>
+	<sub><b>Delicia Fernandes</b></sub></a><br/>
+	<sub><b>Frontend Developer</b></sub><br/>
+</td>
+</table>
 
 <p align="center">
 <b><a href="https://github.com/Coding-Collective">Keep Developing!</a></b>
